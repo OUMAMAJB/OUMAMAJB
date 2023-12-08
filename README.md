@@ -22,3 +22,7 @@ I'm a passionate developper with a strong background in HTML,CSS,Js,PHP, .Net ,X
 I'm always open to collaboration and new opportunities. Feel free to reach out if you share similar interests or have exciting projects in mind!
 
 Happy coding! 🚀
+
+
+<i class="fab fa-html5"></i>
+
